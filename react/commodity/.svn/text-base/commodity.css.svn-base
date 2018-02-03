@@ -1,0 +1,8 @@
+.leftMenu li{
+	height:auto;
+	line-height: 70px;
+}
+.leftAside{
+	min-height: 550px;
+	border-right: 1px solid #eeeeee
+}
